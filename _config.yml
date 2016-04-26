@@ -1,0 +1,14 @@
+layout_spectrum: 0.5829787
+color:
+  saturation: 0.7978724
+  lightness: 0.7702128
+  brandStrength: 0.8
+  brandColors:
+    - '#131021'
+    - '#4C80BB'
+    - '#3E5964'
+    - '#93C4DA'
+    - '#B98A60'
+  rhythmicContrast: 0.5021276
+typography_spectrum: 0.7255319
+name: Welcome To Planet Earth
