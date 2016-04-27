@@ -1,14 +1,29 @@
+name: Welcome To Planet Earth
+favicon: null
 layout_spectrum: 0.5829787
+typography_spectrum: 0.7255319
+title: Welcome To Planet Earth
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7978724
-  lightness: 0.7702128
-  brandStrength: 0.8
   brandColors:
     - '#131021'
     - '#4C80BB'
     - '#3E5964'
     - '#93C4DA'
     - '#B98A60'
+  brandStrength: 0.8
+  lightness: 0.7702128
+  saturation: 0.7978724
   rhythmicContrast: 0.5021276
-typography_spectrum: 0.7255319
-name: Welcome To Planet Earth
+purpose: []
