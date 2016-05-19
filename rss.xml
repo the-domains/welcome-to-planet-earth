@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome To Planet Earth]]></description>
         <link>http://welcometoplanetearth.info/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 05:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 05:10:11 GMT</lastBuildDate>
         <atom:link href="http://welcometoplanetearth.info/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://welcometoplanetearth.info/6e7ef46e-740f-46ba-82f3-f11328849b0c/index.html</link>
             <guid isPermaLink="false">6e7ef46e-740f-46ba-82f3-f11328849b0c</guid>
             <pubDate>Thu, 19 May 2016 05:06:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Products</p>]]></description>
-            <link>http://welcometoplanetearth.info/products/index.html</link>
-            <guid isPermaLink="false">f82f3235-00fe-4399-b813-3e1aa76fed00</guid>
-            <pubDate>Thu, 19 May 2016 05:04:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
